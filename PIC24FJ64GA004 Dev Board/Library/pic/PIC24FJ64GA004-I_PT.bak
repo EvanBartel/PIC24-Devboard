@@ -3,7 +3,7 @@
     (property "Reference" "U" (at -11.43 75.93 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Value" "PIC24FJ64GA004-I_PT" (at -50.8 -75.12 0)
+    (property "Value" "PIC24FJ64GA004-I_PT" (at 8.89 -10.16 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Footprint" "PIC24FJ64GA004-I_PT:QFP80P1200X1200X120-44N" (at 10.16 6.35 0)
