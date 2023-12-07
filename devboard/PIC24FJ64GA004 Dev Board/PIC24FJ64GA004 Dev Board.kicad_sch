@@ -5296,7 +5296,7 @@
     (property "Value" "23LC1024T-I/SN" (at 124.46 171.45 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Package_SO:SOIC-8-N7_3.9x4.9mm_P1.27mm" (at 124.46 175.26 0)
+    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (at 124.46 175.26 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "23LC1024T-I/SN" (at 124.46 190.5 0)
